@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-10 12:46:18,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+2026-06-10 22:31:40,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
@@ -8,6 +8,9 @@ CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c94
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
